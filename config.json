@@ -1,0 +1,6 @@
+{
+    "apiKey" : "apiKeyValue",
+    "secretKey" : "secretKeyValue",
+    "teleBotKey": "teleBotKeyVal",
+    "teleChatId": "chatId"
+}
